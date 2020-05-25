@@ -1,0 +1,10 @@
+.up-to-search-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: fixed;
+  left: 50px;
+  bottom: 60px;
+  font-size: 50px;
+  font-weight: lighter;
+}

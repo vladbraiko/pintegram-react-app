@@ -1,0 +1,17 @@
+.result-container {
+  margin-bottom: 20px;
+}
+
+@keyframes slidein {
+  from {
+    margin-top: 100%;
+  }
+}
+
+.main-theme {
+  margin-top: 140px;
+  text-align: center;
+  font-size: 90px;
+  color: #333333;
+  animation: 2s slidein;
+}

@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.is-hidden {
+  display: none;
+}
+
+.material-icons {
+  font-size: 15px;
+  display: block;
+}

@@ -1,0 +1,12 @@
+.logo {
+  margin: 0;
+  line-height: 0;
+  padding-top: 18px;
+  color: #333333;
+  font-size: 43px;
+  cursor: pointer;
+}
+
+.red-letter {
+  color: #dc3545;
+}

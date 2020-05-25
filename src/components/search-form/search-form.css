@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-group {
+  width: 400px;
+}
+
+.form-control {
+  border-radius: 25px;
+}
+
+.btn {
+  border-radius: 25px;
+}
