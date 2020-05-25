@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pintegram-react-app/static/css/main.2d40a99e.chunk.css",
+    "main.js": "/pintegram-react-app/static/js/main.9f7422bb.chunk.js",
+    "main.js.map": "/pintegram-react-app/static/js/main.9f7422bb.chunk.js.map",
+    "runtime-main.js": "/pintegram-react-app/static/js/runtime-main.6af5cb22.js",
+    "runtime-main.js.map": "/pintegram-react-app/static/js/runtime-main.6af5cb22.js.map",
+    "static/css/2.33ece8ec.chunk.css": "/pintegram-react-app/static/css/2.33ece8ec.chunk.css",
+    "static/js/2.de11bbe6.chunk.js": "/pintegram-react-app/static/js/2.de11bbe6.chunk.js",
+    "static/js/2.de11bbe6.chunk.js.map": "/pintegram-react-app/static/js/2.de11bbe6.chunk.js.map",
+    "index.html": "/pintegram-react-app/index.html",
+    "precache-manifest.dde12da08a70ef28e7cd47b21a4d2a42.js": "/pintegram-react-app/precache-manifest.dde12da08a70ef28e7cd47b21a4d2a42.js",
+    "service-worker.js": "/pintegram-react-app/service-worker.js",
+    "static/css/2.33ece8ec.chunk.css.map": "/pintegram-react-app/static/css/2.33ece8ec.chunk.css.map",
+    "static/css/main.2d40a99e.chunk.css.map": "/pintegram-react-app/static/css/main.2d40a99e.chunk.css.map",
+    "static/js/2.de11bbe6.chunk.js.LICENSE.txt": "/pintegram-react-app/static/js/2.de11bbe6.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/pintegram-react-app/static/media/MaterialIcons-Regular.e79bfd88.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6af5cb22.js",
+    "static/css/2.33ece8ec.chunk.css",
+    "static/js/2.de11bbe6.chunk.js",
+    "static/css/main.2d40a99e.chunk.css",
+    "static/js/main.9f7422bb.chunk.js"
+  ]
+}
