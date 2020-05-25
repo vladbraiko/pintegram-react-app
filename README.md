@@ -1,6 +1,6 @@
 ## A picture database web application
 
-Try Pintegram at [here](https://vladbraiko.github.io/pintegram-react-app/)
+Try Pintegram [here](https://vladbraiko.github.io/pintegram-react-app/)
 
 This project was made for learning purpose.
 I mastered:
