@@ -5,7 +5,7 @@ Try Pintegram at [this link](https://vladbraiko.github.io/pintegram-react-app/)
 This project was made for learning purpose.
 I mastered:
 
-- basic principles React.js
+- basic principles of React.js
 - React Hooks
 - Working with Function Components
 
