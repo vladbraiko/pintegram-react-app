@@ -1,4 +1,4 @@
-## A picture database web application
+## A pictures database web application
 
 Search for images on almost any topic.
 
