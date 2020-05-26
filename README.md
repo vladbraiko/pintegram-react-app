@@ -1,6 +1,7 @@
 ## A picture database web application
 
 Search for images on almost any topic.
+
 Try Pintegram [here](https://vladbraiko.github.io/pintegram-react-app/)
 
 This project was made for learning purpose.
